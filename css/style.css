@@ -22,7 +22,7 @@
 }
 
 .text-center{
-    font-size: 1em;
+    font-size: 1.1em;
 }
 
 .text-footer {
@@ -33,6 +33,13 @@
 .nav li{
     margin-right:20px;
 }
+
+#Titre_webdesign{
+font-size: 1.2em;
+font-weight: 700;
+
+}
+
 /* Fin modifications */
 
 
@@ -42,7 +49,6 @@ body {
     padding: 0;
     background: #FFF;
     overflow-x: hidden;
-    -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
 
@@ -174,7 +180,7 @@ a:hover {
 .d-bloc h5 a:hover,
 .d-bloc h6 a:hover,
 .d-bloc p a:hover {
-    color: gold;
+    color: rgb(0, 183, 255);
 }
 
 .d-bloc .navbar-toggle .icon-bar {
@@ -814,7 +820,7 @@ h4 {
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #7c2d09!important;
     color: #FFFFFF!important;
 }
 
